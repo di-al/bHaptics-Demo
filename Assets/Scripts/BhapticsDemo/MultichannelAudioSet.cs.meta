@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sixChannelClip: {fileID: 8300000, guid: 85050ab635091424f985d029b9512b1f, type: 3}
+  - eightChannelClip: {fileID: 8300000, guid: 71bfb6e516b0c2d449f37170116687e5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
